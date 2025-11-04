@@ -20,5 +20,5 @@ console.log("Number 1 as a string:", number1AsString);
 console.log("Sum of number1 and number2:", sum);
 console.log("Product of number1 and number2:", product);
 
-// Optional: show how JavaScript handles mixed types
+
 console.log("Adding a number and a string:", number1 + number1AsString);
